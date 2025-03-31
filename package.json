@@ -17,7 +17,7 @@
     "url": "https://github.com/Ivana-os/web_node_railway/issues"
   },
   "homepage": "https://github.com/Ivana-os/web_node_railway#readme",
-  "description": ""
+  "description": "",
   "dependencies": {
     "express": "^5.1.0"
   }
