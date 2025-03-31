@@ -1,0 +1,21 @@
+{
+  "name": "github_proba",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivana-os/github_public_primjer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivana-os/github_public_primjer/issues"
+  },
+  "homepage": "https://github.com/Ivana-os/github_public_primjer#readme",
+  "description": ""
+}
