@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ivana-os/github_public_primjer.git"
+    "url": "git+https://github.com/Ivana-os/web_node_railway.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ivana-os/github_public_primjer/issues"
+    "url": "https://github.com/Ivana-os/web_node_railway/issues"
   },
-  "homepage": "https://github.com/Ivana-os/github_public_primjer#readme",
+  "homepage": "https://github.com/Ivana-os/web_node_railway#readme",
   "description": ""
 }
